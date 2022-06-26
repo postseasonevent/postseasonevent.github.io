@@ -497,6 +497,7 @@ font-weight: 100;}
 	box-shadow: 0px 1px #dfe4ea;
 	transition: 0.3s;
 	cursor: default;
+	display: none;
 }
 #standings_table > div > table > tbody > tr:hover {
 	height: 60px;
